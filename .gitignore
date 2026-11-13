@@ -1,0 +1,36 @@
+# Keep personal insurance material and generated evidence out of this repository.
+local/
+private/
+data/
+originals/
+outputs/
+tmp/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.wav
+*.zip
+
+# Python environments and caches.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local configuration and OS files.
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

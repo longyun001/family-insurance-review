@@ -1,0 +1,4 @@
+# Optional for PDF extraction; text indexing and scheduling use the standard library.
+# Versions used in the full regression run.
+pymupdf==1.28.2
+pypdf==6.21.4
