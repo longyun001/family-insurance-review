@@ -1,0 +1,4 @@
+interface:
+  display_name: "家庭保险核对"
+  short_description: "逐页检索原始保单、验证条款引用，并保留保障差异与人工核对记录"
+  default_prompt: "请用 $family-insurance-review 核对家庭保单，列出原文依据和仍待确认的事项。"
