@@ -1,0 +1,27 @@
+{
+  "data_snapshot": "2026-11-13",
+  "policies": [
+    {
+      "id": "P001",
+      "title": "虚构示例长期保障",
+      "scope": "current",
+      "currency": "CNY",
+      "recorded_status": "unverified",
+      "source_ids": ["D01"],
+      "payment": {
+        "anchor": "2021-01-31",
+        "frequency": "yearly",
+        "periods": 20,
+        "amount": "1000.10",
+        "date_basis": "anniversary_reference",
+        "amount_basis": "fictional_example",
+        "records": []
+      },
+      "coverage": {
+        "kind": "whole_life",
+        "start": "2021-01-31",
+        "end": null
+      }
+    }
+  ]
+}

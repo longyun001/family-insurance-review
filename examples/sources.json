@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "id": "D01",
+      "path": "policy.md",
+      "title": "虚构示例：长期保障资料",
+      "kind": "policy",
+      "scope": "current",
+      "policy_ids": ["P001"],
+      "observed_on": "2026-11-13",
+      "effective_from": "2021-01-31"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "F001",
+    "policy_id": "P001",
+    "field": "payment_periods",
+    "value": "20",
+    "unit": "年",
+    "condition": "虚构示例：年交",
+    "period": "fictional-contract-2021",
+    "citation": {
+      "source_id": "D01",
+      "page": 1,
+      "quote": "交费期间为20年，交费方式为年交，每期保险费为1000.10元。"
+    }
+  }
+]
